@@ -1,5 +1,5 @@
 # Awesome Security in Image Generation
-Feel free to pull requests!
+Feel free to create pull requests!
 ---
 ## Papers
 ### 2024
