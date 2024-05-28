@@ -1,4 +1,4 @@
-# awesome-security-in-diffusion-models
+# Awesome Security in Image Generation
 Feel free to pull requests!
 ---
 ## Papers
