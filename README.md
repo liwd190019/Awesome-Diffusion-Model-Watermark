@@ -4,7 +4,7 @@ Feel free to create pull requests!
 ## Papers
 ### 2024
 - [AnchMark: Anchor-contrastive Watermarking against Generative Image Modifications](https://openreview.net/pdf?id=WLw1oDGR2Q)
-  - [Minzhou Pan, et al.]
+  - Minzhou Pan et al.
   - Code: 
 ### 2023
 - [A recipe for watermarking diffusion models](https://arxiv.org/pdf/2303.10137)
