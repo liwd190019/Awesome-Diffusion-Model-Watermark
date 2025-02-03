@@ -1,4 +1,4 @@
-# Awesome Security in Image Generation
+# Awesome Diffusion Model Watermark
 Feel free to create pull requests!
 ---
 ## Papers
