@@ -48,7 +48,7 @@
 
 - [Watermarking Diffusion Model](https://arxiv.org/abs/2305.12502)
   - Yugeng Liu, Yufei Wang, Yujie Wang, Yisen Wang, Zhi Xu
-  - Code: https://arxiv.org/abs/2305.12502
+  - Code: 
 
 - [Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process](https://arxiv.org/abs/2306.03436)
   - Sen Peng, Yufei Chen, Cong Wang, Xiaohua Jia
