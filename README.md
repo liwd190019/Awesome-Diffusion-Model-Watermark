@@ -19,6 +19,10 @@
 - [Latent Diffusion Models for Image Watermarking: A Review of Recent Trends and Future Directions](https://www.mdpi.com/2079-9292/14/1/25)
   - Hongjun Hur, Minjae Kang, Sanghyeok Seo, Jong-Uk Hou
 
+- [SoK: Watermarking for AI-Generated Content](https://arxiv.org/abs/2411.18479)
+  - Xuandong Zhao, Sam Gunn, Miranda Christ, Jaiden Fairoze, Andres Fabrega, Nicholas Carlini, Sanjam Garg, Sanghyun Hong, Milad Nasr, Florian Tramèr, Somesh Jha, Lei Li, Yu-Xiang Wang, Dawn Song
+  - Code: 
+
 ## Research Paper
 ### 2024
 - [AnchMark: Anchor-contrastive Watermarking against Generative Image Modifications](https://openreview.net/pdf?id=WLw1oDGR2Q)
@@ -32,7 +36,11 @@
 - [Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking](https://arxiv.org/abs/2407.13188)
   - Zhiyuan Ma, Guoli Jia, Biqing Qi, Bowen Zhou
   - Code:
- 
+
+- [Watermark Anything with Localized Messages](https://arxiv.org/abs/2411.07231)
+  - Tom Sander, Pierre Fernandez, Alain Durmus, Teddy Furon, Matthijs Douze
+  - Code: [Official](https://github.com/facebookresearch/watermark-anything)
+
 ### 2023
 - [A recipe for watermarking diffusion models](https://arxiv.org/pdf/2303.10137)
   - Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Ngai-Man Cheung, Min Lin
