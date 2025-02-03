@@ -21,7 +21,6 @@
 
 - [SoK: Watermarking for AI-Generated Content](https://arxiv.org/abs/2411.18479)
   - Xuandong Zhao, Sam Gunn, Miranda Christ, Jaiden Fairoze, Andres Fabrega, Nicholas Carlini, Sanjam Garg, Sanghyun Hong, Milad Nasr, Florian Tramèr, Somesh Jha, Lei Li, Yu-Xiang Wang, Dawn Song
-  - Code: 
 
 ## Research Paper
 ### 2024
