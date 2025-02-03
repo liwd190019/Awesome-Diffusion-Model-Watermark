@@ -49,6 +49,11 @@
   - Hai Ci, Pei Yang, Yiren Song, Mike Zheng Shou
   - Code: [Official](https://github.com/showlab/RingID)
 
+- [GROOT: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis](https://arxiv.org/abs/2407.10471)
+  - Weizhi Liu, Yue Li, Dongdong Lin, Hui Tian, Haizhou Li
+  - Code:
+
+
 ### 2023
 - [A recipe for watermarking diffusion models](https://arxiv.org/pdf/2303.10137)
   - Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Ngai-Man Cheung, Min Lin
