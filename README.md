@@ -45,9 +45,9 @@
   - Sam Gunn, Xuandong Zhao, Dawn Song
   - Code: [Official](https://github.com/XuandongZhao/PRC-Watermark)
 
-- [Invisible Image Watermarks Are Provably Removable Using Generative AI](https://arxiv.org/abs/2306.01953)
-  - Xuandong Zhao, Kexun Zhang, Zihao Su, Saastha Vasan, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna, Yu-Xiang Wang, Lei Li
-  - Code: [Official](https://github.com/XuandongZhao/WatermarkAttacker)
+- [RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification](https://arxiv.org/abs/2404.14055)
+  - Hai Ci, Pei Yang, Yiren Song, Mike Zheng Shou
+  - Code: [Official](https://github.com/showlab/RingID)
 
 ### 2023
 - [A recipe for watermarking diffusion models](https://arxiv.org/pdf/2303.10137)
@@ -73,6 +73,10 @@
 - [RoSteALS: Robust Steganography using Autoencoder Latent Space](https://arxiv.org/abs/2304.03400)
   - Tu Bui, Shruti Agarwal, Ning Yu, John Collomosse
   - Code: [Official](https://github.com/tubui/rosteals)
+
+- [Invisible Image Watermarks Are Provably Removable Using Generative AI](https://arxiv.org/abs/2306.01953)
+  - Xuandong Zhao, Kexun Zhang, Zihao Su, Saastha Vasan, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna, Yu-Xiang Wang, Lei Li
+  - Code: [Official](https://github.com/XuandongZhao/WatermarkAttacker)
 
 ### 2022
 - [Supervised GAN Watermarking for Intellectual Property Protection](https://arxiv.org/pdf/2209.03466)
