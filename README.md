@@ -21,6 +21,7 @@
 
 - [SoK: Watermarking for AI-Generated Content](https://arxiv.org/abs/2411.18479)
   - Xuandong Zhao, Sam Gunn, Miranda Christ, Jaiden Fairoze, Andres Fabrega, Nicholas Carlini, Sanjam Garg, Sanghyun Hong, Milad Nasr, Florian Tramèr, Somesh Jha, Lei Li, Yu-Xiang Wang, Dawn Song
+  - Code: 
 
 ## Research Paper
 ### 2024
@@ -39,6 +40,14 @@
 - [Watermark Anything with Localized Messages](https://arxiv.org/abs/2411.07231)
   - Tom Sander, Pierre Fernandez, Alain Durmus, Teddy Furon, Matthijs Douze
   - Code: [Official](https://github.com/facebookresearch/watermark-anything)
+
+- [An Undetectable Watermark for Generative Image Models](https://arxiv.org/abs/2410.07369)
+  - Sam Gunn, Xuandong Zhao, Dawn Song
+  - Code: [Official](https://github.com/XuandongZhao/PRC-Watermark)
+
+- [Invisible Image Watermarks Are Provably Removable Using Generative AI](https://arxiv.org/abs/2306.01953)
+  - Xuandong Zhao, Kexun Zhang, Zihao Su, Saastha Vasan, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna, Yu-Xiang Wang, Lei Li
+  - Code: [Official](https://github.com/XuandongZhao/WatermarkAttacker)
 
 ### 2023
 - [A recipe for watermarking diffusion models](https://arxiv.org/pdf/2303.10137)
